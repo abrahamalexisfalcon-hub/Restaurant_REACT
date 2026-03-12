@@ -10,7 +10,6 @@ function Personas() {
         <div>
             <Header />
             <StepBar />
-
             {/* Cuerpo de la web: Cantidad de Comensales*/}
 
             <div className="flex flex-col items-center justify-center mt-10">
